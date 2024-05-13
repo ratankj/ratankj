@@ -1,8 +1,8 @@
 # 💫 About Me:
 <img align="right" alt="Data" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif">
 <h1 align="center">Hi 👋, I'm Ratan Kumar Jha</h1>
-<h3 align="center">A passionate Data scientist</h3>
-<br>🌱 I’m currently learning data science, machine learning ,deep learning<br>💬 Ask me about Data....<br>
+<h3 align="center">DATA ANALYST</h3>
+<br>🌱 I’m working as  Data Analyst, turning messy data into meaningful insights. <br>💬 Ask me about Data....<br>
 
 
 
